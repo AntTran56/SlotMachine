@@ -1,0 +1,2 @@
+# SlotMachine
+First JavaScript Project
